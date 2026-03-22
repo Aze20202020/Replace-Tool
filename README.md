@@ -24,17 +24,6 @@ A creative-mode building utility that lets you select a 3D region and replace al
 - ✅ Creative mode only — won't work in survival/adventure
 - ✅ Tooltip shows current selection state
 
-## Installation
-1. Install **Minecraft Forge 1.19.2** (build 43.x)
-2. Place the compiled `.jar` into your `mods/` folder
-3. Launch the game
-
-## Building from Source
-```bash
-./gradlew build
-```
-The jar will be in `build/libs/`.
-
 ## Block ID Examples
 | Block | ID |
 |---|---|
